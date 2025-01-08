@@ -1,0 +1,6 @@
+google-auth-oauthlib>=0.4.6
+google-api-python-client>=2.0.0
+mysql-connector-python>=8.0.26
+PyGithub>=1.55
+openai>=0.27.0
+python-dotenv>=0.19.0
