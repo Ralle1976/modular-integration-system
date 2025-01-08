@@ -9,5 +9,3 @@ Ein hochflexibles, modulares System zur Integration von Google Drive, MySQL, Git
 - 🛠 Einfache Integration in bestehende Systeme
 - 📝 Umfassende Fehlerbehandlung und Logging
 - 🔌 Erweiterbare Architektur
-
-[Vollständige Dokumentation im Wiki](wiki/Home.md)
